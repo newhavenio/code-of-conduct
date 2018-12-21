@@ -13,4 +13,8 @@ This code of conduct applies both within project spaces and in public spaces whe
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting one or more of the project maintainers.
 
+Unpopular opinions are welcome, so long as their assumptions do not challenge those of the mission.  For example, opinions like racial superiority are unacceptable because they necessary conflict with egalitarianism and universal human rights, which is the foundation of our mission of inclusivity.  On the other hand, conservative, libertarian, and other non-progressive opinions are acceptable so long as they are not predicated on any assumptions that conflict with the moral imperatives of equality, democracy, and non-violence.
+
+When confronted about an unpopular opinion, remember to be respectful, empathetic, and appreciative of how other people could be affected differently by an application of your principle.  If civility cannot be maintained, there should be an arbitration whereupon either both parties come to consensus, that conversation is avoided or, as a last resort, one of the parties is removed from a channel or the organization.
+
 This Code of Conduct is adapted from the Contributor Covenant, version 1.1.0, available from http://contributor-covenant.org/version/1/1/0/
