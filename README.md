@@ -2,9 +2,13 @@
 
 ## Overview
 
-NewHavenIO is dedicated to providing a harassment-free experience for everyone, regardless of gender identity or expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or non-religion. We do not tolerate harassment of participants in any form. Harassment includes offensive comments & communication related to age, gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption of discussions or other events, and unwelcome sexual attention. If a participant engages in behavior that violates this code of conduct, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the group.
+NewHaven.io is dedicated to growing the tech community in the greater New Haven area, to enriching it, and making it a more worthwhile place. To that end, we are dedicated to providing a safe, inclusive, and open environment in which all people are welcome to share their ideas, thoughts, and experiences with each other in the tech community. 
 
-This code of conduct applies to all spaces managed by NewHavenIO. This includes Slack, Meetup events, conferences we're involved with, and any other forums created by the IO team which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+In that vein, we want to provide a harassment-free experience for everyone, regardless of gender identity or expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or non-religion. We do not tolerate harassment of participants in any form. Harassment includes offensive comments & communication related to age, gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption of discussions or other events, and unwelcome sexual attention. If a participant engages in behavior that violates this code of conduct, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the group.
+
+NewHaven.io prioritizes marginalized people's safety over privileged people's comfort.
+
+This code of conduct applies to all spaces physical and virtual managed by NewHaven.io. This includes Slack, Meetup events, conferences we are involved with, and any other forums created by the IO members which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
 If you believe someone is violating the code of conduct, we ask that you please report it to a board member. For more details please see our Reporting Guidelines.
 
@@ -20,9 +24,8 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 ## Expected Behavior
 
-The following behaviors are expected and requested of all community members:
+In order to promote the overall health and longevity of the community we expect that all members participate in an active, authentic, and productive way. This includes, but is not limited to:
 
-* Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
 * Exercise consideration and respect in your speech and actions.
 * Keep it safe for work in all Public Channels.
 * Attempt collaboration before conflict.
@@ -32,7 +35,7 @@ The following behaviors are expected and requested of all community members:
 
 ## Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+The following behaviors are considered unacceptable within our community, although this should not read as an exhaustive list:
 
 * Violence, threats of violence, or violent language directed against another person.
 * Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
@@ -40,10 +43,10 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Posting or threatening to post other people’s personally identifying information ("doxing").
 * Personal insults, particularly those related to gender, sexual orientation, race, age, religion/nonreligion, or disability.
 * Inappropriate photography or recording.
-* Unwelcome sexual attention. This includes, sexualized comments or jokes.
+* Harassment that includes sexual harassment of any kind.
 * Deliberate intimidation, stalking or following (online or in person).
 * Advocating for, or encouraging, any of the above behavior.
-* Sustained disruption of on-topic Slack channels.
+* Sustained disruption of on-topic community discussions.
 
 ## Consequences of Unacceptable Behavior
 
@@ -55,20 +58,16 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a NewHavenIO board member as soon as possible. You'll likely get a faster response on Slack than by e-mail.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a NewHaven.io board member (or email conduct@newhaven.io) as soon as possible, using whatever medium (Slack, email, in person conversation) you feel most comfortable with.
 
-Henry Quinn (@henry)
-Jenn Nolte (@Jenn Nolte she/her)
-Josh Levinson (@jlevnhv)
-Steve Voils (@steve)
-Tom Reznick (@tom)
-Ben Midyette (@ben)
 
-All board email addresses are FirstName@newhaven.io.
+The board reserves the right not to act on complaints regarding:
+* ‘Reverse'-isms, including but not limited to ‘reverse racism,' ‘reverse sexism,' and ‘cisphobia'.
+* Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I'm not discussing this with you.”
+* Communicating in a ‘tone' you don't find congenial.
+* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
-## Addressing Grievances
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify NewHavenIO admins with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+Additionally, if you feel you have been falsely or unfairly accused of violating the Code of Conduct please do not hesitate to reach out to a board member.
 
 ## Scope
 
@@ -78,21 +77,21 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact info
 
-Feel free to contact any of the NewHavenIO board members at any time. You'll likely get a faster response on Slack than by e-mail.
+Feel free to contact any of the NewHaven.io board members at any time. You'll likely get a faster response on Slack than by email.
 
-Henry Quinn (@henry)
-Jenn Nolte (@Jenn Nolte she/her)
-Josh Levinson (@jlevnhv)
-Steve Voils (@steve)
-Tom Reznick (@tom)
-Ben Mindyette (@ben)
+Henry Quinn | @henry | henry@newhaven.io
+Jenn Nolte | @Jenn Nolte she/her | jenn@newhaven.io
+Josh Levinson | @jlevnhv | josh@newhaven.io
+Steve Voils | @steve | steve@newhaven.io
+Tom Reznick | @tom | tom@newhaven.io
+Ben Midyette | @ben | ben@newhaven.io
 
-All board email addresses are FirstName@newhaven.io.
+Additionally you can email conduct@newhaven.io with any concerns or questions you may have.
 
 ## License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Portions of text derived from the [Denver Devs Code of Conduct](https://denverdevs.com/resources/code-of-conduct/) which itself borrowed from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), and th [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+Portions of text derived from the [Denver Devs Code of Conduct](https://denverdevs.com/resources/code-of-conduct/) which itself borrowed from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), and the [Citizen Code of Conduct](http://citizencodeofconduct.org/)
 
-Revision 1.0. Posted 2 December 2019.
+Revision 1.0. Posted 3 December 2019.
