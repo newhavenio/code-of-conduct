@@ -47,6 +47,7 @@ The following behaviors are considered unacceptable within our community, althou
 * Deliberate intimidation, stalking or following (online or in person).
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of on-topic community discussions.
+* 'Headhunting'/targeting/cold calling members in an unsolicited way as a means to avoid channel-based community discussion.
 
 ## Consequences of Unacceptable Behavior
 
