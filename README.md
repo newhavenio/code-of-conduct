@@ -57,6 +57,18 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
 
+## Enforcement Policy
+
+If we believe a member is in violation of the Code of Conduct (CoC), we will first speak with them about the violation and see how they can conduct themselves in a way which does not violate the mission of NewHaven.IO.
+
+If they continue to violate the CoC, the organization team will then issue them a warning and some expectations going forward about how they can conduct themselves in a more productive, empathetic way towards other members.
+
+If the member continues to violate the CoC, the organization team will issue a two-week ban from the Slack, along with an email documenting the violation of the CoC and the issues with the member.
+
+Finally, if the member continues to break the CoC, the organization team will issue a permanent ban from the organization, including the Meetup and Slack.
+
+All enforcement issues and violations will be documented and discussed to the best of the abilities of the organization team.
+
 ## Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a NewHaven.io board member (or email conduct@newhaven.io) as soon as possible, using whatever medium (Slack, email, in person conversation) you feel most comfortable with.
