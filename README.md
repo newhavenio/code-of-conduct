@@ -1,4 +1,4 @@
-# NEWHAVEN.IO Code of Conduct
+# NewHaven.io Code of Conduct
 
 ## Overview
 
