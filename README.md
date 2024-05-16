@@ -12,10 +12,10 @@ To promote the overall health and longevity of the community we expect that all 
 
 * Exercise consideration and respect in your speech and actions.
 * All messages must be safe for work and suitable for a professional work environment.
-*Attempt collaboration before conflict.
-*Refrain from demeaning, discriminatory, or harassing behavior and speech.
-*Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-*Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+* Attempt collaboration before conflict.
+* Refrain from demeaning, discriminatory, or harassing behavior and speech.
+* Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+* Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ### Unacceptable Behavior
 
