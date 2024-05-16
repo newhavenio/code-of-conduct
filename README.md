@@ -127,7 +127,7 @@ Additionally, you can email conduct@newhaven.io with any concerns or questions y
 
 ## License and attribution
 
-This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
+This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of text derived from the [Denver Devs Code of Conduct](https://denverdevs.com/resources/code-of-conduct/) which itself borrowed from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), and the [Citizen Code of Conduct](http://citizencodeofconduct.org/)
 
