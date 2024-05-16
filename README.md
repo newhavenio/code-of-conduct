@@ -125,7 +125,7 @@ Feel free to contact any of the NewHaven.io board members at any time. You’ll 
 
 Additionally, you can email conduct@newhaven.io with any concerns or questions you may have.
 
-License and attribution
+## License and attribution
 
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 
