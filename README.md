@@ -24,7 +24,7 @@ The following behaviors are considered unacceptable within our community, althou
 * Violence, threats of violence, or violent language directed against another person.
 * Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
 * Posting or displaying sexually explicit or violent material.
-* Posting or threatening to post other people’s personally identifying information ("doxing").
+* Posting or threatening to post other people's personally identifying information ("doxing").
 * Personal insults, particularly those related to gender, sexual orientation, race, age, religion/nonreligion, or disability.
 * Inappropriate photography or recording.
 * Harassment that includes sexual harassment of any kind.
@@ -55,13 +55,13 @@ We do not tolerate harassment of participants in any form. Harassment includes, 
 * Sustained disruption of discussions or other events.
 * Unwelcome sexual attention.
 
-If a participant engages in behavior that violates this code of conduct, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the group. Board members are given wide birth to intervene and disrupt harassment as they see fit. NewHaven.io prioritizes marginalized people’s safety over privileged people’s comfort.
+If a participant engages in behavior that violates this code of conduct, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the group. Board members are given wide birth to intervene and disrupt harassment as they see fit. NewHaven.io prioritizes marginalized people's safety over privileged people's comfort.
 
-This code of conduct applies to all spaces, physical and virtual, managed by NewHaven.io. This includes Slack, Discord, Meetup events, conferences we are involved with, and any other forums created by the IO members that the community uses for communication. In addition, violations of this code outside these spaces may affect a person’s ability to participate within them.
+This code of conduct applies to all spaces, physical and virtual, managed by NewHaven.io. This includes Slack, Discord, Meetup events, conferences we are involved with, and any other forums created by the IO members that the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
 If you believe someone is violating the code of conduct, we ask that you please report it to a board member. For more details, please see our Reporting Guidelines.
 
-This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended - a guide to make it easier to enrich all of us and the various communities in which we participate.
+This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the various communities in which we participate.
 
 ### Consequences of Unacceptable Behavior
 
@@ -99,9 +99,9 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 The board reserves the right not to act on complaints regarding:
 
-* ‘Reverse’-isms, including but not limited to ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia.’
-* Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
-* Communicating in a ‘tone’ you don’t find congenial.
+* 'Reverse'-isms, including but not limited to 'reverse racism,' 'reverse sexism,' and 'cisphobia.'
+* Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
+* Communicating in a 'tone' you don't find congenial.
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
 Additionally, if you feel you have been falsely or unfairly accused of violating the Code of Conduct, please do not hesitate to reach out to a board member.
@@ -114,7 +114,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact info
 
-Feel free to contact any of the NewHaven.io board members at any time. You’ll likely get a faster response on Slack or Discord than by email.
+Feel free to contact any of the NewHaven.io board members at any time. You'll likely get a faster response on Slack or Discord than by email.
 
 - Henry Quinn | @henry | henry@newhaven.io
 - Jenn Nolte | @Jenn Nolte she/her | jenn@newhaven.io
