@@ -1,4 +1,4 @@
-# NEWHAVEN.IO CODE OF CONDUCT
+# NEWHAVEN.IO Code of Conduct
 
 ## Overview
 
@@ -24,14 +24,14 @@ The following behaviors are considered unacceptable within our community, althou
 * Violence, threats of violence, or violent language directed against another person.
 * Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
 * Posting or displaying sexually explicit or violent material.
-* Posting or threatening to post other people’s personally identifying information (“doxing”).
+* Posting or threatening to post other people’s personally identifying information ("doxing").
 * Personal insults, particularly those related to gender, sexual orientation, race, age, religion/nonreligion, or disability.
 * Inappropriate photography or recording.
 * Harassment that includes sexual harassment of any kind.
 * Deliberate intimidation, stalking, or following (online or in person).
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of on-topic community discussions.
-* ‘Headhunting’/targeting/cold calling members in an unsolicited way as a means to avoid channel-based community discussion.
+* 'Headhunting'/targeting/cold calling members in an unsolicited way as a means to avoid channel-based community discussion.
 
 ### Harassment
 
@@ -116,12 +116,12 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 Feel free to contact any of the NewHaven.io board members at any time. You’ll likely get a faster response on Slack or Discord than by email.
 
-* Henry Quinn | @henry | henry@newhaven.io 
-* Jenn Nolte | @Jenn Nolte she/her | jenn@newhaven.io 
-* Josh Levinson | @jlevnhv | josh@newhaven.io 
-* Steve Voils | @steve | steve@newhaven.io 
-* Tom Reznick | @tom | tom@newhaven.io 
-* Ben Midyette | @ben | ben@newhaven.io
+- Henry Quinn | @henry | henry@newhaven.io
+- Jenn Nolte | @Jenn Nolte she/her | jenn@newhaven.io
+- Josh Levinson | @jlevnhv | josh@newhaven.io
+- Steve Voils | @steve | steve@newhaven.io
+- Tom Reznick | @tom | tom@newhaven.io
+- Ben Midyette | @ben | ben@newhaven.io
 
 Additionally, you can email conduct@newhaven.io with any concerns or questions you may have.
 
@@ -129,6 +129,6 @@ Additionally, you can email conduct@newhaven.io with any concerns or questions y
 
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 
-Portions of text derived from the Denver Devs Code of Conduct which itself borrowed from the Django Code of Conduct, the Geek Feminism Anti-Harassment Policy, and the Citizen Code of Conduct
+Portions of text derived from the [Denver Devs Code of Conduct](https://denverdevs.com/resources/code-of-conduct/) which itself borrowed from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), and the [Citizen Code of Conduct](http://citizencodeofconduct.org/)
 
 Revision 1.1. Posted 16 May 2024.
