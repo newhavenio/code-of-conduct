@@ -92,11 +92,11 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 Feel free to contact any of the NewHaven.io board members at any time. You'll likely get a faster response on Discord than by email.
 
-Henry Quinn | @henry | henry@newhaven.io
-Josh Levinson | @jlevnhv | josh@newhaven.io
-Tom Reznick | @tom | tom@newhaven.io
-Ben Midyette | @ben | ben@newhaven.io
-Grace de la Mora |
+Henry Quinn | @Henry
+Josh Levinson | @Josh
+Tom Reznick | @Tom
+Ben Midyette | @Ben
+Grace de la Mora | @Grace
 
 Additionally you can email conduct@newhaven.io with any concerns or questions you may have.
 
