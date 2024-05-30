@@ -106,4 +106,4 @@ This Code of Conduct is distributed under a [Creative Commons Attribution-ShareA
 
 Portions of text derived from the [Denver Devs Code of Conduct](https://denverdevs.com/resources/code-of-conduct/) which itself borrowed from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), and the [Citizen Code of Conduct](http://citizencodeofconduct.org/)
 
-Revision 1.0. Posted 3 December 2019.
+Revision 1.1. Posted 30 May 2024.
